@@ -16,7 +16,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/api\.memrise\.com\/v2025\.3\.12 url script-response-body https://raw.githubusercontent.com/112516101106/shadowrocket-module/main/ycdz/Memrise.js
+^https:\/\/api\.memrise\.com\/v2025\.3\.12\.76641 url script-response-body https://raw.githubusercontent.com/112516101106/shadowrocket-module/main/ycdz/Memrise.js
 
 [mitm] 
 
